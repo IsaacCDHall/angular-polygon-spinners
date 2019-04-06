@@ -9,6 +9,8 @@ Spinner animation library for Angular 6 or 7. Previews and demos under construct
 
 Intended for experimentation and not for production.
 
+
+What up, Justin! Looking forward to these live demos.
 ## Installation
 
 `npm install --save angular-polygon-spinners`
